@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-
+    font: 'Ubuntu';
 `;
 
 export const Header = styled.div`
